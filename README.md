@@ -5,7 +5,7 @@
 |---|---|---|---|
 |  |Christopher  |1 submission, score:43 |  |
 |  |Cyril |  |  |
-| 3/11-5/11 | Aseta | None |Looking for a way to predict accident locations so as to dynamically position the Ambulances |
+| 2/11-4/11 | Aseta | None |Looking for a way to predict accident locations so as to dynamically position the Ambulances |
 |  |Rohi |  |  |
 
 1 Either cluster them according to time and day and predict probability of which class the belong
@@ -27,4 +27,8 @@ locations with likelyhood of an accident at that time, but pick the top 6]))
 and i have to find a way of combining lat/long into a single variable , since predicting separately* seems 
 wrong because lat/long are sort of dependent on each other , and i cant preditc tupples or geometries 
 
-#### If you are able to come up with something email it to me as I try find a work around for this
+I've tried to merge accidents with routes along which they happened to no avail
+It's like accidents hazikufanykia kwa hizo roads, because
+when i check to see if any of the points is on any of the roads it returns null
+
+#### If you are able to come up with something you can share here or email it to me as I try find a possible solution

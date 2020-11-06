@@ -3,8 +3,10 @@
 
 |Date | Person |Zindi Submissions| Comments |
 |---|---|---|---|
+|  |Christopher  |1 submission, score:43 |  |
+|  |Cyril |  |  |
 | 3/11-5/11 | Aseta | None |Looking for a way to predict accident locations so as to dynamically position the Ambulances |
-
+|  |Rohi |  |  |
 
 1 Either cluster them according to time and day and predict probability of which class the belong
 

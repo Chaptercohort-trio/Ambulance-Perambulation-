@@ -32,3 +32,6 @@ It's like accidents hazikufanykia kwa hizo roads, because
 when i check to see if any of the points is on any of the roads it returns null
 
 #### If you are able to come up with something you can share here or email it to me as I try find a possible solution
+
+
+### I will get back to you guys if/when i have made any progress
